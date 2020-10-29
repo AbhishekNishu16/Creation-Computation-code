@@ -9,7 +9,7 @@ int ledPins[]= {2,3,11,12};
 boolean ledStates[]= {true,true,true,true};
 int a;
 
-
+int shape;
 int ledTotal = sizeof(ledPins) / sizeof(int);
 
 int sensor1Pin=A0;
