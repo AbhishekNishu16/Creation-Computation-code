@@ -1,4 +1,4 @@
-int shape;
+int proximity;
 int ledPins[]= {2,3,10,11,12};
 boolean ledStates[]= {true,true,true,true,true};
 int a;
