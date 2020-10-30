@@ -1,4 +1,4 @@
-int ledPins[]= {2,3,10,11,12};
+int ledPins[]= {2,3,10,11,12,13};
 boolean ledStates[]= {true,true,true,true,true};
 int a;
 
